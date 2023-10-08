@@ -1,0 +1,1141 @@
+{
+  "questions": [
+    {
+      "question": "What are your operating hours?",
+      "answer": "We are open from 11:00 AM to 10:00 PM, Monday to Sunday."
+    },
+    {
+      "question": "Do you offer vegetarian options?",
+      "answer": "Yes, we have a variety of delicious vegetarian dishes on our menu."
+    },
+    {
+      "question": "What type of cuisine do you serve?",
+      "answer": "We specialize in serving Italian cuisine, with a wide range of pasta, pizzas, and more."
+    },
+    {
+      "question": "Can I make a reservation?",
+      "answer": "Absolutely! We encourage reservations to ensure we have a table ready for you."
+    },
+    {
+      "question": "Do you provide home delivery?",
+      "answer": "Yes, we offer home delivery services within a certain radius. Please check with us for delivery availability to your location."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept cash, credit cards, and digital wallets like Apple Pay and Google Pay."
+    },
+    {
+      "question": "Is there parking available?",
+      "answer": "Yes, we have a dedicated parking area for our restaurant patrons."
+    },
+    {
+      "question": "Are you kid-friendly?",
+      "answer": "Absolutely! We welcome families with children and have a special kids' menu."
+    },
+    {
+      "question": "Do you have any ongoing promotions?",
+      "answer": "Yes, we frequently run promotions and discounts. Please visit our website or contact us directly to know about the current offers."
+    },
+    {
+      "question": "Can you accommodate food allergies?",
+      "answer": "Yes, we do our best to accommodate food allergies. Please inform our staff about any allergies when placing your order."
+    },
+    {
+      "question": "Do you have a kids' play area?",
+      "answer": "Yes, we have a kids' play area with toys and games to keep the little ones entertained."
+    },
+    {
+      "question": "What are your best-selling dishes?",
+      "answer": "Some of our best-selling dishes include our signature lasagna, wood-fired pizzas, and tiramisu for dessert."
+    },
+    {
+      "question": "Is there a dress code for the restaurant?",
+      "answer": "There is no strict dress code, but we recommend smart-casual attire for a pleasant dining experience."
+    },
+    {
+      "question": "Can I host private events or parties at your restaurant?",
+      "answer": "Absolutely! We have event spaces available for private gatherings, parties, and special occasions. Please contact us in advance to make arrangements."
+    },
+    {
+      "question": "Are you pet-friendly?",
+      "answer": "While we love pets, we only allow service animals inside the restaurant."
+    },
+    {
+      "question": "Do you offer gluten-free options?",
+      "answer": "Yes, we have a selection of gluten-free dishes to cater to our gluten-intolerant guests."
+    },
+    {
+      "question": "What is the recommended way to make a reservation?",
+      "answer": "You can make a reservation by calling us directly or using our online reservation system on the website."
+    },
+    {
+      "question": "Do you have outdoor seating?",
+      "answer": "Yes, we have a lovely outdoor patio where you can enjoy your meal in a beautiful setting."
+    },
+    {
+      "question": "Can I customize the ingredients in my dish?",
+      "answer": "Certainly! Our chefs can accommodate reasonable requests to customize your dish based on your preferences."
+    },
+    {
+      "question": "Is your restaurant wheelchair accessible?",
+      "answer": "Yes, our restaurant is fully wheelchair accessible to ensure all our guests can have a comfortable dining experience."
+    },
+    {
+      "question": "Do you offer a happy hour?",
+      "answer": "Yes, we have a happy hour with discounted drinks and appetizers. Happy hour timings are from 4:00 PM to 6:00 PM, Monday to Friday."
+    },
+    {
+      "question": "What precautions are you taking regarding COVID-19?",
+      "answer": "We prioritize the safety and health of our guests and staff. We follow all the necessary COVID-19 safety guidelines, including regular sanitization, social distancing, and mask-wearing for staff."
+    },
+    {
+      "question": "Do you have a bar area?",
+      "answer": "Yes, we have a fully stocked bar offering a wide selection of alcoholic and non-alcoholic beverages."
+    },
+    {
+      "question": "Can I see the menu online?",
+      "answer": "Absolutely! You can view our menu on our website or download it as a PDF to check out our delicious offerings."
+    },
+    {
+      "question": "Are reservations required for large groups?",
+      "answer": "Reservations are highly recommended for large groups to ensure we can accommodate everyone comfortably."
+    },
+    {
+      "question": "Do you offer a lunch buffet?",
+      "answer": "Yes, we have a lunch buffet option available on weekdays from 12:00 PM to 2:30 PM, offering a variety of dishes to choose from."
+    },
+    {
+      "question": "Can I bring my own cake for a celebration?",
+      "answer": "Certainly! We allow guests to bring their own celebration cakes. However, please inform us in advance, and we may charge a small cake-cutting fee."
+    },
+    {
+      "question": "Is there a senior citizen discount?",
+      "answer": "Yes, we offer a special discount for senior citizens on weekdays. Please inquire with our staff for more details."
+    },
+    {
+      "question": "Do you have a loyalty program?",
+      "answer": "Yes, we have a loyalty program where you can earn points for each visit and redeem them for discounts on future meals."
+    },
+    {
+      "question": "What is your corkage fee?",
+      "answer": "Our corkage fee is $15 per bottle of wine if you choose to bring your own wine to enjoy with your meal."
+    },
+    {
+      "question": "Are gift cards available for purchase?",
+      "answer": "Absolutely! We offer gift cards that make for perfect presents for your loved ones to enjoy a delightful dining experience."
+    },
+    {
+      "question": "Can I host a business meeting at your restaurant?",
+      "answer": "Certainly! Our restaurant provides a conducive environment for business meetings, and we can assist with any audiovisual equipment you may need."
+    },
+    {
+      "question": "Are there vegan options on your menu?",
+      "answer": "Yes, we have a selection of delicious vegan dishes to cater to our vegan guests."
+    },
+    {
+      "question": "Do you offer live music or entertainment?",
+      "answer": "Yes, we occasionally have live music or entertainment events. Please check our website or social media for updates on upcoming events."
+    },
+    {
+      "question": "Un hot dog avec un pepsi.",
+      "answer": "Parfait j'ajoute Un hot dog avec un pepsi a la commande"
+    },
+    {
+      "question": "ALIZÉ PRALINÉ FRAMBOISE.",
+      "answer": "Parfait j'ajoute ALIZÉ PRALINÉ FRAMBOISE a la commande"
+    },
+    {
+      "question": "Tiramisu",
+      "answer": "Parfait j'ajoute TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Tiramisu",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux Tiramisu",
+      "answer": "Parfait j'ajoute deux TIRAMISU (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 Tiramisu",
+      "answer": "Parfait j'ajoute TIRAMISU  a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 Tiramisu",
+      "answer": "Parfait j'ajoute TIRAMISU  a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Tiramisu",
+      "answer": "Parfait j'ajoute TIRAMISU  a la commande"
+    },
+    {
+      "question": "Je voudrais commander un Tiramisu, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute TIRAMISU  a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un Tiramisu en dessert ?",
+      "answer": "Oui j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le Tiramisu pour terminer.",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Tiramisu comme dessert.",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Tiramisu.",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un Tiramisu, OK ?",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un Tiramisu, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Tiramisu, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Tiramisu, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit Tiramisu, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit Tiramisu, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit Tiramisu",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un Tiramisu \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un TIRAMISU (5.50$) a la commande"
+    },
+    {
+      "question": "Baba au rhum",
+      "answer": "Parfait j'ajoute un BABA AU RHUM (5.50$) a la commande"
+    },
+    {
+      "question": "Baba au rhum",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Baba au rhum",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux Baba au rhum",
+      "answer": "Parfait j'ajoute deux Baba au rhum (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 Baba au rhum",
+      "answer": "Parfait j'ajoute deux Baba au rhum (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 Baba au rhum",
+      "answer": "Parfait j'ajoute 2 Baba au rhum (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Baba au rhum",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un Baba au rhum, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un Baba au rhum en dessert ?",
+      "answer": "Oui j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le Baba au rhum pour terminer.",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Baba au rhum comme dessert.",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Baba au rhum.",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un Baba au rhum, OK ?",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un Baba au rhum, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Baba au rhum, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Baba au rhum, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit Baba au rhum, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit Baba au rhum, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit Baba au rhum",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un Baba au rhum \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un Baba au rhum (5.50$) a la commande"
+    },
+    {
+      "question": "Trois choco",
+      "answer": "Parfait j'ajoute un TROIS CHOCO (5.50$) a la commande"
+    },
+    {
+      "question": "Trois choco",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Trois choco",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux Trois choco",
+      "answer": "Parfait j'ajoute deux Trois choco (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 Trois choco",
+      "answer": "Parfait j'ajoute deux Trois choco (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 Trois choco",
+      "answer": "Parfait j'ajoute 2 Trois choco (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Trois choco",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un Trois choco, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un Trois choco en dessert ?",
+      "answer": "Oui j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le Trois choco pour terminer.",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Trois choco comme dessert.",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Trois choco.",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un Trois choco, OK ?",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un Trois choco, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Trois choco, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Trois choco, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit Trois choco, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit Trois choco, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit Trois choco",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un Trois choco \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un Trois choco (5.50$) a la commande"
+    },
+    {
+      "question": "Palais royal",
+      "answer": "Parfait j'ajoute un PALAIS ROYAL (5.50$) a la commande"
+    },
+    {
+      "question": "Palais royal",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Palais royal",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux Palais royal",
+      "answer": "Parfait j'ajoute deux Palais royal (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 Palais royal",
+      "answer": "Parfait j'ajoute deux Palais royal (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 Palais royal",
+      "answer": "Parfait j'ajoute 2 Palais royal (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Palais royal",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un Palais royal, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un Palais royal en dessert ?",
+      "answer": "Oui j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le Palais royal pour terminer.",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Palais royal comme dessert.",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Palais royal.",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un Palais royal, OK ?",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un Palais royal, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Palais royal, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Palais royal, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit Palais royal, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit Palais royal, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit Palais royal",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un Palais royal \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un Palais royal (5.50$) a la commande"
+    },
+    {
+      "question": "\u00c9clair chantilly",
+      "answer": "Parfait j'ajoute un \u00c9CLAIR CHANTILLY (5.50$) a la commande"
+    },
+    {
+      "question": "\u00c9clair chantilly",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un \u00c9clair chantilly",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux \u00c9clair chantilly",
+      "answer": "Parfait j'ajoute deux \u00c9clair chantilly (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 \u00c9clair chantilly",
+      "answer": "Parfait j'ajoute deux \u00c9clair chantilly (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 \u00c9clair chantilly",
+      "answer": "Parfait j'ajoute 2 \u00c9clair chantilly (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un \u00c9clair chantilly",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un \u00c9clair chantilly, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un \u00c9clair chantilly en dessert ?",
+      "answer": "Oui j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le \u00c9clair chantilly pour terminer.",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un \u00c9clair chantilly comme dessert.",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un \u00c9clair chantilly.",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un \u00c9clair chantilly, OK ?",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un \u00c9clair chantilly, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le \u00c9clair chantilly, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le \u00c9clair chantilly, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit \u00c9clair chantilly, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit \u00c9clair chantilly, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit \u00c9clair chantilly",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un \u00c9clair chantilly \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un \u00c9clair chantilly (5.50$) a la commande"
+    },
+    {
+      "question": "\u00c9clair au chocolat",
+      "answer": "Parfait j'ajoute un \u00c9CLAIR AU CHOCOLAT (5.50$) a la commande"
+    },
+    {
+      "question": "\u00c9clair au chocolat",
+      "answer": "Parfait j'ajoute un \u00c9CLAIR CHANTILLY (5.50$) a la commande"
+    },
+    {
+      "question": "\u00c9clair au chocolat",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un \u00c9clair au chocolat",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux \u00c9clair au chocolat",
+      "answer": "Parfait j'ajoute deux \u00c9clair au chocolat (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 \u00c9clair au chocolat",
+      "answer": "Parfait j'ajoute deux \u00c9clair au chocolat (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 \u00c9clair au chocolat",
+      "answer": "Parfait j'ajoute 2 \u00c9clair au chocolat (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un \u00c9clair au chocolat",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un \u00c9clair au chocolat, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un \u00c9clair au chocolat en dessert ?",
+      "answer": "Oui j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le \u00c9clair au chocolat pour terminer.",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un \u00c9clair au chocolat comme dessert.",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un \u00c9clair au chocolat.",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un \u00c9clair au chocolat, OK ?",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un \u00c9clair au chocolat, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le \u00c9clair au chocolat, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le \u00c9clair au chocolat, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit \u00c9clair au chocolat, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit \u00c9clair au chocolat, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit \u00c9clair au chocolat",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un \u00c9clair au chocolat \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un \u00c9clair au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Millefeuille",
+      "answer": "Parfait j'ajoute un MILLEFEUILLE (5.50$) a la commande"
+    },
+    {
+      "question": "Millefeuille",
+      "answer": "Parfait j'ajoute un \u00c9CLAIR CHANTILLY (5.50$) a la commande"
+    },
+    {
+      "question": "Millefeuille",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Millefeuille",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux Millefeuille",
+      "answer": "Parfait j'ajoute deux Millefeuille (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 Millefeuille",
+      "answer": "Parfait j'ajoute deux Millefeuille (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 Millefeuille",
+      "answer": "Parfait j'ajoute 2 Millefeuille (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Millefeuille",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un Millefeuille, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un Millefeuille en dessert ?",
+      "answer": "Oui j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le Millefeuille pour terminer.",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Millefeuille comme dessert.",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Millefeuille.",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un Millefeuille, OK ?",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un Millefeuille, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Millefeuille, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Millefeuille, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit Millefeuille, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit Millefeuille, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit Millefeuille",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un Millefeuille \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un Millefeuille (5.50$) a la commande"
+    },
+    {
+      "question": "Paris-brest",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Paris-brest",
+      "answer": "Parfait j'ajoute un \u00c9CLAIR CHANTILLY (5.50$) a la commande"
+    },
+    {
+      "question": "Paris-brest",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Paris-brest",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux Paris-brest",
+      "answer": "Parfait j'ajoute deux Paris-brest (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 Paris-brest",
+      "answer": "Parfait j'ajoute deux Paris-brest (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 Paris-brest",
+      "answer": "Parfait j'ajoute 2 Paris-brest (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Paris-brest",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un Paris-brest, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un Paris-brest en dessert ?",
+      "answer": "Oui j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le Paris-brest pour terminer.",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Paris-brest comme dessert.",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Paris-brest.",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un Paris-brest, OK ?",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un Paris-brest, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Paris-brest, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Paris-brest, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit Paris-brest, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit Paris-brest, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit Paris-brest",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un Paris-brest \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un Paris-brest (5.50$) a la commande"
+    },
+    {
+      "question": "Choco caramel",
+      "answer": "Parfait j'ajoute un CHOCO CARAMEL (5.50$) a la commande"
+    },
+    {
+      "question": "Choco caramel",
+      "answer": "Parfait j'ajoute un \u00c9CLAIR CHANTILLY (5.50$) a la commande"
+    },
+    {
+      "question": "Choco caramel",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Choco caramel",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux Choco caramel",
+      "answer": "Parfait j'ajoute deux Choco caramel (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 Choco caramel",
+      "answer": "Parfait j'ajoute deux Choco caramel (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 Choco caramel",
+      "answer": "Parfait j'ajoute 2 Choco caramel (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Choco caramel",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un Choco caramel, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un Choco caramel en dessert ?",
+      "answer": "Oui j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le Choco caramel pour terminer.",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Choco caramel comme dessert.",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Choco caramel.",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un Choco caramel, OK ?",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un Choco caramel, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Choco caramel, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Choco caramel, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit Choco caramel, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit Choco caramel, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit Choco caramel",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un Choco caramel \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un Choco caramel (5.50$) a la commande"
+    },
+    {
+      "question": "Tartelette tropezienne",
+      "answer": "Parfait j'ajoute un TARTELETTE TROP\u00c9ZIENNE (5.50$) a la commande"
+    },
+    {
+      "question": "Tartelette tropezienne",
+      "answer": "Parfait j'ajoute un \u00c9CLAIR CHANTILLY (5.50$) a la commande"
+    },
+    {
+      "question": "Tartelette tropezienne",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Tartelette tropezienne",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux Tartelette tropezienne",
+      "answer": "Parfait j'ajoute deux Tartelette tropezienne (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 Tartelette tropezienne",
+      "answer": "Parfait j'ajoute deux Tartelette tropezienne (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 Tartelette tropezienne",
+      "answer": "Parfait j'ajoute 2 Tartelette tropezienne (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Tartelette tropezienne",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un Tartelette tropezienne, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un Tartelette tropezienne en dessert ?",
+      "answer": "Oui j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le Tartelette tropezienne pour terminer.",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Tartelette tropezienne comme dessert.",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Tartelette tropezienne.",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un Tartelette tropezienne, OK ?",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un Tartelette tropezienne, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Tartelette tropezienne, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Tartelette tropezienne, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit Tartelette tropezienne, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit Tartelette tropezienne, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit Tartelette tropezienne",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un Tartelette tropezienne \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un Tartelette tropezienne (5.50$) a la commande"
+    },
+    {
+      "question": "Moelleux au chocolat",
+      "answer": "Parfait j'ajoute un MOELLEUX AU CHOCOLAT (5.50$) a la commande"
+    },
+    {
+      "question": "Moelleux au chocolat",
+      "answer": "Parfait j'ajoute un \u00c9CLAIR CHANTILLY (5.50$) a la commande"
+    },
+    {
+      "question": "Moelleux au chocolat",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Moelleux au chocolat",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux Moelleux au chocolat",
+      "answer": "Parfait j'ajoute deux Moelleux au chocolat (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 Moelleux au chocolat",
+      "answer": "Parfait j'ajoute deux Moelleux au chocolat (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 Moelleux au chocolat",
+      "answer": "Parfait j'ajoute 2 Moelleux au chocolat (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Moelleux au chocolat",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un Moelleux au chocolat, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un Moelleux au chocolat en dessert ?",
+      "answer": "Oui j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le Moelleux au chocolat pour terminer.",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Moelleux au chocolat comme dessert.",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Moelleux au chocolat.",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un Moelleux au chocolat, OK ?",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un Moelleux au chocolat, s'il te pla\u00eet.",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Moelleux au chocolat, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Moelleux au chocolat, \u00e7a marche ?",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit Moelleux au chocolat, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit Moelleux au chocolat, s'il te pla\u00eet !",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit Moelleux au chocolat",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un Moelleux au chocolat \u00e0 ma commande",
+      "answer": "Parfait j'ajoute un Moelleux au chocolat (5.50$) a la commande"
+    },
+    {
+      "question": "Gateau au fromage",
+      "answer": "Parfait j'ajoute un \u00c9CLAIR CHANTILLY (5.50$) a la commande"
+    },
+    {
+      "question": "Gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre deux Gateau au fromage",
+      "answer": "Parfait j'ajoute deux Gateau au fromage (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "2 Gateau au fromage",
+      "answer": "Parfait j'ajoute deux Gateau au fromage (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Je vais prendre 2 Gateau au fromage",
+      "answer": "Parfait j'ajoute 2 Gateau au fromage (5.50$ x 2) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Je voudrais commander un Gateau au fromage, s'il vous pla\u00eet.",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Est-ce que je peux avoir un Gateau au fromage en dessert ?",
+      "answer": "Oui j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais choisir le Gateau au fromage pour terminer.",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais prendre un Gateau au fromage comme dessert.",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Pour le dessert, je vais prendre un Gateau au fromage.",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Je vais me prendre un Gateau au fromage, OK ?",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Donne-moi un Gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Je prends le Gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Un p'tit Gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Un ptit Gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "Un petit Gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "J'ajoute un Gateau au fromage a ma commande",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "avec un gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+    {
+      "question": "avec deux gateau au fromage",
+      "answer": "Parfait j'ajoute un Gateau au fromage (5.50$) a la commande"
+    },
+
+    {
+      "question": "avec un eclair au chocolat",
+      "answer": "Parfait j'ajoute un \u00e9claire au chocolat (5.50$) a la commande"
+    }
+  ]
+}
